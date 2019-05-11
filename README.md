@@ -1,2 +1,4 @@
 # kelvinvcollege-project-fullstack
-codeworkspro
+html,css,javascript-front-end
+server-side-php
+backend-mysql
